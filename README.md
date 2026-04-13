@@ -1,3 +1,8 @@
+# ВНИМАНИЕ
+ДАННЫЙ ПРОЕКТ УМЕР, БОЛЬШЕ НЕ ОБНОВЛЯЕТСЯ.
+ВМЕСТО НЕГО ПОЯВИЛСЯ НОВЫЙ - VEX PROGRAMMING LANGUAGE
+https://github.com/kijuahub/vex-programming-language
+
 # Обновление Runner
 ---------------------------------------------------
 
